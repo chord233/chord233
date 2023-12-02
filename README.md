@@ -9,11 +9,9 @@ Bioinformatician,AI4S,DeSci<br/>
 
 [Github](https://github.com/chord233) | [Twitter](https://twitter.com/chord244) | [ORCID](http://orcid.org/0009-0008-5792-3670)
 
-- :microscope: I’m currently working on genomics and Phylogenetics.
+- :microscope: I’m currently working on genomics and bioinformatics.
 - :telescope: I'm passionate about reproducible research and open-source software.
 
-Hello, I'm Xuan He, a university student from Xi'an, China. My academic journey is focused on bioinformatics, where I aspire to leverage AI technology to advance the field. Passionate about the intersection of AI and bioinformatics, I am dedicated to contributing to the development of both disciplines.<br/>
+Hello, I'm Xuan He, a university student hailing from Xi'an, China. Currently immersed in the world of bioinformatics, I'm on a learning journey with the goal of exploring the synergy between AI technology and this fascinating field.
 
-Originating from the rich cultural heritage of Xi'an, I bring a unique perspective to my academic pursuits. In addition to my studies, I am keenly interested in the advancement of decentralized science, recognizing its potential to reshape the landscape of research and innovation.<br/>
-
-I am excited about the opportunities that lie ahead in merging my passion for bioinformatics, AI, and decentralized science, and I look forward to making meaningful contributions to these fields.
+I'm still in the early stages of my academic pursuit, and while I may not possess extensive experience, I am genuinely enthusiastic about contributing to the growth of bioinformatics and exploring the possibilities that AI and decentralized science offer.
