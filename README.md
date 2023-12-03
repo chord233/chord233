@@ -10,7 +10,7 @@ Bioinformatician,AI4S,DeSci<br/>
 [Github](https://github.com/chord233) | [Twitter](https://twitter.com/chord244) | [ORCID](http://orcid.org/0009-0008-5792-3670)
 
 - :microscope: I’m currently working on genomics and bioinformatics.
-- :telescope: I'm passionate about reproducible research and open-source software.
+- :telescope: I'm passionate about Decentralized science and open-source software.
 
 Hello, I'm He Xuan, a university student from Xi'an, China. Currently immersed in the world of bioinformatics, I'm on a learning journey with the goal of exploring the synergy between AI technology and this fascinating field.
 
