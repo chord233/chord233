@@ -2,16 +2,16 @@
 
 ## 🚀 About Me
 
-资深系统工程师，专注于底层系统设计与高性能计算。拥有从硬件架构到应用层的全栈技术能力，在RISC-V处理器设计、操作系统内核开发、区块链基础设施等领域有深入实践。热衷于Rust生态系统，致力于构建安全、高效的系统级软件。
+Senior Systems Engineer specializing in low-level system design and high-performance computing. With full-stack technical capabilities spanning from hardware architecture to application layer, I have deep practical experience in RISC-V processor design, operating system kernel development, and blockchain infrastructure. Passionate about the Rust ecosystem, dedicated to building secure and efficient system-level software.
 
-### 核心专业领域
-- 🔧 **硬件设计**: RISC-V架构, 数字电路, FPGA开发
-- ⚡ **系统编程**: 操作系统内核, 网络编程, 性能优化
-- 🌐 **区块链**: 智能合约, DeFi协议, Web3基础设施
-- 🏗️ **分布式系统**: 微服务架构, 云原生, 高并发系统
-- 🗄️ **数据库**: 存储引擎, 查询优化, 事务处理
-- 🔧 **编译器**: 语言设计, LLVM, 编译优化
-- 🦀 **Rust生态**: 系统编程, 零成本抽象, 内存安全
+### Core Professional Domains
+- 🔧 **Hardware Design**: RISC-V Architecture, Digital Circuits, FPGA Development
+- ⚡ **Systems Programming**: OS Kernels, Network Programming, Performance Optimization
+- 🌐 **Blockchain**: Smart Contracts, DeFi Protocols, Web3 Infrastructure
+- 🏗️ **Distributed Systems**: Microservices Architecture, Cloud Native, High-Concurrency Systems
+- 🗄️ **Database**: Storage Engines, Query Optimization, Transaction Processing
+- 🔧 **Compilers**: Language Design, LLVM, Compilation Optimization
+- 🦀 **Rust Ecosystem**: Systems Programming, Zero-Cost Abstractions, Memory Safety
 
 ## 🛠️ Tech Stack
 
@@ -65,13 +65,13 @@ Medical knowledge graph construction and analysis system.
 
 ## 🎯 Current Focus
 
-- 🔬 探索先进的RISC-V处理器优化技术和硬件加速
-- 🦀 为Rust生态系统贡献系统级开源项目
-- 🌐 构建高性能Web3基础设施和DeFi协议
-- 🏗️ 研究分布式系统和云原生架构设计
-- 🔧 深入编译器优化和LLVM后端开发
-- 🗄️ 探索数据库内核和存储引擎优化
-- 🤖 研究AI在系统优化和硬件设计中的应用
+- 🔬 Exploring advanced RISC-V processor optimization techniques and hardware acceleration
+- 🦀 Contributing system-level open source projects to the Rust ecosystem
+- 🌐 Building high-performance Web3 infrastructure and DeFi protocols
+- 🏗️ Researching distributed systems and cloud-native architecture design
+- 🔧 Deep diving into compiler optimization and LLVM backend development
+- 🗄️ Exploring database kernel and storage engine optimization
+- 🤖 Researching AI applications in system optimization and hardware design
 
 ## 📫 Let's Connect!
 
@@ -79,11 +79,11 @@ Medical knowledge graph construction and analysis system.
 - 📧 **Email**: chord244@gmail.com
 - 🐦 **Twitter**: [@chord244](https://twitter.com/chord244)
 
-## 📄 详细文档
+## 📄 Documentation
 
-- 📋 **[技术简历](RESUME.md)**: 完整的技术简历，包含详细的技能树和项目经验
-- 📚 **[项目详情](PROJECTS.md)**: 深入的项目技术分析和实现细节
-- 📄 **[许可证](LICENSE)**: MIT开源许可证
+- 📋 **[Technical Resume](RESUME.md)**: Complete technical resume with detailed skill tree and project experience
+- 📚 **[Project Details](PROJECTS.md)**: In-depth project technical analysis and implementation details
+- 📄 **[License](LICENSE)**: MIT Open Source License
 
 ---
 
