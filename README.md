@@ -88,9 +88,9 @@ Medical knowledge graph construction and analysis system.
 
 ## 📄 Documentation
 
-- 📋 **[Technical Resume (CN)](RESUME.md)** | **[Technical Resume (EN)](RESUME_EN.md)**: Complete technical resume with detailed skill tree and project experience
-- 📚 **[Project Details (EN)](PROJECTS.md)** | **[Project Details (CN)](PROJECTS_CN.md)**: In-depth project technical analysis and implementation details
-- 📝 **[Cover Letter (CN)](COVER_LETTER_CN.md)** | **[Cover Letter (EN)](COVER_LETTER_EN.md)**: Professional cover letters for job applications
+- 📋 **[Technical Resume (CN)](docs/resume/zh/README.md)** | **[Technical Resume (EN)](docs/resume/en/README.md)**: Complete technical resume with detailed skill tree and project experience
+- 📚 **[Project Details (EN)](docs/projects/en/README.md)** | **[Project Details (CN)](docs/projects/zh/README.md)**: In-depth project technical analysis and implementation details
+- 📝 **[Cover Letter (CN)](docs/cover-letter/zh/README.md)** | **[Cover Letter (EN)](docs/cover-letter/en/README.md)**: Professional cover letters for job applications
 - 📄 **[License](LICENSE)**: MIT Open Source License
 
 ---
