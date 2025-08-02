@@ -1,118 +1,137 @@
-# 📁 项目详细说明
+# 📁 Project Details
 
-本文档提供了作品集中各个项目的详细信息和技术细节。
+This document provides detailed information and technical specifications for projects in the portfolio.
 
-## 🏗️ 项目分类
+## 🏗️ Project Categories
 
-### 1. 硬件设计类项目
+### 1. Hardware Design Projects
 
-#### mini_cpu - RISC-V处理器核心
-- **项目规模**: 大型 (5000+ 行代码)
-- **开发周期**: 3个月
-- **核心技术**:
-  - Verilog HDL硬件描述语言
-  - RISC-V RV32I指令集架构
-  - 五级流水线设计 (IF-ID-EX-MEM-WB)
-  - 数据冒险和控制冒险处理
-- **项目亮点**:
-  - 完整的处理器设计，从指令获取到写回
-  - 支持32条基础整数指令
-  - 包含ALU、寄存器文件、控制单元等核心组件
-  - 提供完整的测试平台和仿真环境
-- **应用场景**: 嵌入式系统、FPGA原型验证、教学演示
+#### mini_cpu - RISC-V Processor Core
+- **Project Scale**: Large (5000+ lines of code)
+- **Development Cycle**: 3 months
+- **Core Technologies**:
+  - Verilog HDL hardware description language
+  - RISC-V RV32I instruction set architecture
+  - Five-stage pipeline design (IF-ID-EX-MEM-WB)
+  - Data hazard and control hazard handling
+- **Project Highlights**:
+  - Complete processor design from instruction fetch to writeback
+  - Support for 32 basic integer instructions
+  - Includes ALU, register file, control unit and other core components
+  - Provides complete test platform and simulation environment
+- **Application Scenarios**: Embedded systems, FPGA prototype verification, educational demonstrations
 
-### 2. 系统编程类项目
+### 2. Systems Programming Projects
 
-#### algorithms_rs - Rust算法库
-- **项目规模**: 中型 (2000+ 行代码)
-- **开发周期**: 持续更新
-- **核心技术**:
-  - Rust零成本抽象
-  - 泛型编程和trait系统
-  - 内存安全保证
-  - 性能基准测试
-- **包含算法**:
-  - 排序: 快排、归并、堆排序等
-  - 搜索: 二分搜索、哈希表
-  - 图算法: DFS、BFS、最短路径
-  - 数据结构: 链表、树、堆等
-- **性能特点**: 接近C++性能，内存安全保证
+#### algorithms_rs - Rust Algorithm Library
+- **Project Scale**: Medium (2000+ lines of code)
+- **Development Cycle**: Continuous updates
+- **Core Technologies**:
+  - Rust zero-cost abstractions
+  - Generic programming and trait system
+  - Memory safety guarantees
+  - Performance benchmarking
+- **Included Algorithms**:
+  - Sorting: Quick sort, merge sort, heap sort, etc.
+  - Search: Binary search, hash tables
+  - Graph algorithms: DFS, BFS, shortest path
+  - Data structures: Linked lists, trees, heaps, etc.
+- **Performance Characteristics**: Near C++ performance with memory safety guarantees
 
-### 3. 金融科技类项目
+### 3. FinTech Projects
 
-#### OKX-sonic - 高性能交易系统
-- **项目规模**: 企业级
-- **核心技术**:
-  - 低延迟网络编程
-  - 无锁数据结构
-  - CPU缓存优化
-  - 内存池管理
-- **性能指标**:
-  - 延迟: < 10微秒
-  - 吞吐量: 100万+ TPS
-  - 可用性: 99.99%+
-- **应用场景**: 高频交易、市场数据处理、风险管理
+#### OKX-sonic - High-Performance Trading System
+- **Project Scale**: Enterprise-level
+- **Core Technologies**:
+  - Low-latency network programming
+  - Lock-free data structures
+  - CPU cache optimization
+  - Memory pool management
+- **Performance Metrics**:
+  - Latency: < 10 microseconds
+  - Throughput: 1M+ TPS
+  - Availability: 99.99%+
+- **Application Scenarios**: High-frequency trading, market data processing, risk management
 
-### 4. 人工智能类项目
+### 4. Artificial Intelligence Projects
 
-#### MedicalKG - 医疗知识图谱
-- **项目规模**: 中大型 (3000+ 行代码)
-- **数据规模**: 10万+ 医疗实体，50万+ 关系
-- **核心技术**:
-  - Neo4j图数据库
-  - Python数据处理
-  - 自然语言处理 (spaCy, NLTK)
-  - 机器学习 (scikit-learn)
-- **功能模块**:
-  - 数据抽取和清洗
-  - 实体识别和关系抽取
-  - 知识推理引擎
-  - Web可视化界面
-- **应用价值**: 辅助医疗诊断、药物发现、医学研究
+#### MedicalKG - Medical Knowledge Graph
+- **Project Scale**: Medium-large (3000+ lines of code)
+- **Data Scale**: 100K+ medical entities, 500K+ relationships
+- **Core Technologies**:
+  - Neo4j graph database
+  - Python data processing
+  - Natural language processing (spaCy, NLTK)
+  - Machine learning (scikit-learn)
+- **Functional Modules**:
+  - Data extraction and cleaning
+  - Entity recognition and relation extraction
+  - Knowledge reasoning engine
+  - Web visualization interface
+- **Application Value**: Medical diagnosis assistance, drug discovery, medical research
 
-## 🔧 技术栈深度分析
+## 🔧 Technical Stack Deep Analysis
 
-### 硬件设计能力
-- **Verilog HDL**: 精通数字电路设计，理解时序和组合逻辑
-- **RISC-V架构**: 深入理解指令集架构和处理器设计原理
-- **FPGA开发**: 熟悉综合、布局布线、时序分析
+### Hardware Design Capabilities
+- **Verilog HDL**: Proficient in digital circuit design, understanding sequential and combinational logic
+- **RISC-V Architecture**: Deep understanding of instruction set architecture and processor design principles
+- **FPGA Development**: Familiar with synthesis, place and route, timing analysis
 
-### 系统编程能力
-- **Rust**: 掌握所有权系统、生命周期、并发编程、零成本抽象
-- **C++**: 熟悉现代C++特性、模板元编程、性能优化
-- **Go**: 高并发编程、微服务架构、云原生开发
-- **汇编语言**: 理解底层硬件交互和性能调优
+### Systems Programming Capabilities
+- **Rust**: Master ownership system, lifetimes, concurrent programming, zero-cost abstractions
+- **C++**: Familiar with modern C++ features, template metaprogramming, performance optimization
+- **Go**: High-concurrency programming, microservices architecture, cloud-native development
+- **Assembly Language**: Understanding low-level hardware interaction and performance tuning
 
-### 分布式系统能力
-- **微服务架构**: 服务拆分、API设计、服务治理
-- **消息队列**: 手写robustmq系统、高吞吐量处理
-- **缓存系统**: 构建KV-Server、分布式缓存
-- **云原生技术**: Docker、Kubernetes、Serverless
+### Distributed Systems Capabilities
+- **Microservices Architecture**: Service decomposition, API design, service governance
+- **Message Queues**: Hand-written robustmq system, high-throughput processing
+- **Caching Systems**: Building KV-Server, distributed caching
+- **Cloud Native Technologies**: Docker, Kubernetes, Serverless
 
-### 区块链技术能力
-- **智能合约**: Solidity开发、DeFi协议设计
-- **共识算法**: PoW/PoS机制实现
-- **密码学**: 零知识证明、密码学原语
-- **扩容方案**: L0/L1/L2解决方案
+### Blockchain Technology Capabilities
+- **Smart Contracts**: Solidity development, DeFi protocol design
+- **Consensus Algorithms**: PoW/PoS mechanism implementation
+- **Cryptography**: Zero-knowledge proofs, cryptographic primitives
+- **Scaling Solutions**: L0/L1/L2 solutions
 
-### 软件工程实践
-- **版本控制**: Git工作流、分支管理、代码审查
-- **测试驱动**: 单元测试、集成测试、性能测试
-- **文档编写**: 技术文档、API文档、用户手册
-- **项目管理**: 敏捷开发、需求分析、架构设计
+### Software Engineering Practices
+- **Version Control**: Git workflows, branch management, code review
+- **Test-Driven**: Unit testing, integration testing, performance testing
+- **Documentation**: Technical documentation, API documentation, user manuals
+- **Project Management**: Agile development, requirements analysis, architecture design
 
-## 📊 项目影响力
+## 📊 Project Impact
 
-### 开源贡献
-- **GitHub Stars**: 累计获得500+ stars
-- **Fork数量**: 100+ forks
-- **社区参与**: 活跃于Rust、RISC-V、区块链技术社区
-- **代码质量**: 遵循最佳实践，注重性能和安全性
-- **项目维护**: 定期更新，积极响应社区反馈
+### Open Source Contributions
+- **GitHub Stars**: Accumulated 500+ stars
+- **Fork Count**: 100+ forks
+- **Community Participation**: Active in Rust, RISC-V, and blockchain technology communities
+- **Code Quality**: Following best practices, focusing on performance and security
+- **Project Maintenance**: Regular updates, actively responding to community feedback
 
-### 技术分享
-- 撰写技术博客文章
-- 参与开源社区讨论
-- 分享项目经验和最佳实践
+### Technical Sharing
+- Writing technical blog articles
+- Participating in open source community discussions
+- Sharing project experience and best practices
 
-*最后更新: 2025年8月*
+## 🚀 Future Plans
+
+### Short-term Goals (3-6 months)
+- Improve cache system design for mini_cpu
+- Extend concurrent algorithms in algorithms_rs
+- Optimize query performance for MedicalKG
+
+### Medium-term Goals (6-12 months)
+- Develop RISC-V vector extension support
+- Build distributed algorithm framework
+- Integrate more AI models into knowledge graphs
+
+### Long-term Vision
+- Become a key contributor to the RISC-V ecosystem
+- Promote Rust adoption in systems programming
+- Establish open source standards for medical AI
+
+---
+
+*Last updated: August 2025*
