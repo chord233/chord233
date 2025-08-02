@@ -5,9 +5,11 @@
 - **Name**: Chord
 - **Position**: System Architect / Senior Software Engineer
 - **Specialization**: Systems Programming, Blockchain Technology, High-Performance Computing
-- **GitHub**: [chord233](https://github.com/chord233)
+- **GitHub**: https://github.com/chord233
 - **Email**: chord244@gmail.com
-- **Tech Blog**: [Personal Tech Sharing](https://chord233.dev)
+- **LinkedIn**: https://linkedin.com/in/chord233
+- **Twitter**: @chord244
+- **Tech Blog**: https://chord233.dev
 
 ---
 

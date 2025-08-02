@@ -1,8 +1,10 @@
-# Hi there, I'm Chord! 👋
+# 👋 Hi there, I'm Chord!
 
 ## 🚀 About Me
 
 Senior Systems Engineer specializing in low-level system design and high-performance computing. With full-stack technical capabilities spanning from hardware architecture to application layer, I have deep practical experience in RISC-V processor design, operating system kernel development, and blockchain infrastructure. Passionate about the Rust ecosystem, dedicated to building secure and efficient system-level software.
+
+---
 
 ### Core Professional Domains
 - 🔧 **Hardware Design**: RISC-V Architecture, Digital Circuits, FPGA Development
@@ -73,16 +75,22 @@ Medical knowledge graph construction and analysis system.
 - 🗄️ Exploring database kernel and storage engine optimization
 - 🤖 Researching AI applications in system optimization and hardware design
 
-## 📫 Let's Connect!
+---
 
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/chord233)
-- 📧 **Email**: chord244@gmail.com
-- 🐦 **Twitter**: [@chord244](https://twitter.com/chord244)
+## 📫 Contact Information
+
+- **Email**: chord244@gmail.com
+- **GitHub**: https://github.com/chord233
+- **LinkedIn**: https://linkedin.com/in/chord233
+- **Twitter**: @chord244
+
+---
 
 ## 📄 Documentation
 
-- 📋 **[Technical Resume](RESUME.md)**: Complete technical resume with detailed skill tree and project experience
-- 📚 **[Project Details](PROJECTS.md)**: In-depth project technical analysis and implementation details
+- 📋 **[Technical Resume (CN)](RESUME.md)** | **[Technical Resume (EN)](RESUME_EN.md)**: Complete technical resume with detailed skill tree and project experience
+- 📚 **[Project Details (EN)](PROJECTS.md)** | **[Project Details (CN)](PROJECTS_CN.md)**: In-depth project technical analysis and implementation details
+- 📝 **[Cover Letter (CN)](COVER_LETTER_CN.md)** | **[Cover Letter (EN)](COVER_LETTER_EN.md)**: Professional cover letters for job applications
 - 📄 **[License](LICENSE)**: MIT Open Source License
 
 ---

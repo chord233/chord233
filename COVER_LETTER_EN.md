@@ -1,10 +1,12 @@
 # 📝 Cover Letter - Chord
 
-**Position Applied**: Senior Systems Engineer / Technical Architect  
-**Applicant**: Chord  
-**Email**: chord244@gmail.com  
-**GitHub**: https://github.com/chord233  
-**Date**: January 2025
+- **Position Applied**: Senior Systems Engineer / Technical Architect
+- **Applicant**: Chord
+- **Email**: chord244@gmail.com
+- **GitHub**: https://github.com/chord233
+- **LinkedIn**: https://linkedin.com/in/chord233
+- **Twitter**: @chord244
+- **Date**: January 2025
 
 ---
 

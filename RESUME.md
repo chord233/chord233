@@ -5,9 +5,11 @@
 - **姓名**: Chord
 - **职位**: 系统架构师 / 高级软件工程师
 - **专业方向**: 系统编程、区块链技术、高性能计算
-- **GitHub**: [chord233](https://github.com/chord233)
+- **GitHub**: https://github.com/chord233
 - **邮箱**: chord244@gmail.com
-- **技术博客**: [个人技术分享](https://chord233.dev)
+- **LinkedIn**: https://linkedin.com/in/chord233
+- **Twitter**: @chord244
+- **技术博客**: https://chord233.dev
 
 ---
 
@@ -175,9 +177,10 @@
 
 ## 📞 联系方式
 
-- **Email**: chord244@gmail.com
+- **邮箱**: chord244@gmail.com
 - **GitHub**: https://github.com/chord233
 - **LinkedIn**: https://linkedin.com/in/chord233
+- **Twitter**: @chord244
 - **技术博客**: https://chord233.dev
 
 ---

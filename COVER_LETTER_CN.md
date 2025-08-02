@@ -1,10 +1,12 @@
 # 📝 求职信 - Chord
 
-**申请职位**: 高级系统工程师 / 技术架构师  
-**申请人**: Chord  
-**联系邮箱**: chord244@gmail.com  
-**GitHub**: https://github.com/chord233  
-**日期**: 2025年1月
+- **申请职位**: 高级系统工程师 / 技术架构师
+- **申请人**: Chord
+- **邮箱**: chord244@gmail.com
+- **GitHub**: https://github.com/chord233
+- **LinkedIn**: https://linkedin.com/in/chord233
+- **Twitter**: @chord244
+- **日期**: 2025年1月
 
 ---
 
